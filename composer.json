@@ -1,12 +1,12 @@
 {
-    "name": "wayofdev/laravel-package-tpl",
+    "name": "wayofdev/laravel-auth",
     "description": "PHP package template with GitHub Actions",
     "type": "library",
     "license": "MIT",
     "homepage": "https://wayof.dev",
     "support": {
-        "issues": "https://github.com/wayofdev/laravel-package-tpl/issues",
-        "source": "https://github.com/wayofdev/laravel-package-tpl"
+        "issues": "https://github.com/wayofdev/laravel-auth/issues",
+        "source": "https://github.com/wayofdev/laravel-auth"
     },
     "authors": [
         {
