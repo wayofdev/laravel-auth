@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace WayOfDev\Package\Bridge\Laravel\Providers;
+namespace WayOfDev\Auth\Bridge\Laravel\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

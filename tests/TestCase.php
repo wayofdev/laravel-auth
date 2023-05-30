@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace WayOfDev\Package\Tests;
+namespace WayOfDev\Auth\Tests;
 
 use Orchestra\Testbench\TestCase as Orchestra;
-use WayOfDev\Package\Bridge\Laravel\Providers\PackageServiceProvider;
+use WayOfDev\Auth\Bridge\Laravel\Providers\PackageServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

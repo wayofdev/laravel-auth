@@ -36,12 +36,12 @@
     },
     "autoload": {
         "psr-4": {
-            "WayOfDev\\Package\\": "src/"
+            "WayOfDev\\Auth\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "WayOfDev\\Package\\Tests\\": "tests/"
+            "WayOfDev\\Auth\\Tests\\": "tests/"
         }
     },
     "scripts": {
@@ -63,7 +63,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "WayOfDev\\Package\\Bridge\\Laravel\\Providers\\PackageServiceProvider"
+                "WayOfDev\\Auth\\Bridge\\Laravel\\Providers\\PackageServiceProvider"
             ]
         },
         "composer-normalize": {
