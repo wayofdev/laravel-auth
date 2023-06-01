@@ -63,7 +63,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AuthServiceProvider"
+                "WayOfDev\\Auth\\Bridge\\Laravel\\Providers\\AuthServiceProvider"
             ]
         },
         "composer-normalize": {
