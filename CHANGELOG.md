@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-06-01)
+
+
+### Features
+
+* first implementation ([6abd95c](https://github.com/wayofdev/laravel-auth/commit/6abd95cdd036a7fd39ebb92b8d69bc1dc6e8217e))
+
 ## [2.0.0](https://github.com/wayofdev/laravel-package-tpl/compare/v1.1.38...v2.0.0) (2023-05-30)
 
 
