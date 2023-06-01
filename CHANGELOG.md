@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/wayofdev/laravel-auth/compare/v1.0.0...v1.0.1) (2023-06-01)
+
+
+### Bug Fixes
+
+* wrong provider path ([cc8f1a9](https://github.com/wayofdev/laravel-auth/commit/cc8f1a9c4aa19adc1bc9a45e3611d5b5df280524))
+
 ## 1.0.0 (2023-06-01)
 
 
