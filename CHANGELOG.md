@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.5](https://github.com/wayofdev/laravel-auth/compare/v1.0.4...v1.0.5) (2023-06-02)
+
+
+### Bug Fixes
+
+* authenticatable contract bindings ([b07ad69](https://github.com/wayofdev/laravel-auth/commit/b07ad69a7c40d9d7a824f071d7e173839691b02e))
+
+
+### Miscellaneous
+
+* update deps ([88d2129](https://github.com/wayofdev/laravel-auth/commit/88d21293c5adf0122c2b50f883590cb52ee9b179))
+
 ## [1.0.4](https://github.com/wayofdev/laravel-auth/compare/v1.0.3...v1.0.4) (2023-06-02)
 
 
