@@ -1,5 +1,26 @@
 # Changelog
 
+## [1.0.3](https://github.com/wayofdev/laravel-auth/compare/v1.0.2...v1.0.3) (2023-06-02)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.7 ([6077344](https://github.com/wayofdev/laravel-auth/commit/6077344c92bb7624f7e50d374bbc44060e992e01))
+
+## [1.0.2](https://github.com/wayofdev/laravel-auth/compare/v1.0.1...v1.0.2) (2023-06-01)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.5.5 ([8bcc4ea](https://github.com/wayofdev/laravel-auth/commit/8bcc4ea4af177cff0da314e65bb72b7c98192b67))
+
+## [1.0.1](https://github.com/wayofdev/laravel-auth/compare/v1.0.0...v1.0.1) (2023-06-01)
+
+
+### Bug Fixes
+
+* wrong provider path ([cc8f1a9](https://github.com/wayofdev/laravel-auth/commit/cc8f1a9c4aa19adc1bc9a45e3611d5b5df280524))
+
 ## 1.0.0 (2023-06-01)
 
 
