@@ -5,12 +5,14 @@ declare(strict_types=1);
 namespace WayOfDev\Auth\Bridge\Laravel\Providers;
 
 use Illuminate\Auth\RequestGuard;
+use Illuminate\Contracts\Auth\Authenticatable as IlluminateAuthenticatable;
 use Illuminate\Contracts\Container\BindingResolutionException;
 use Illuminate\Contracts\Events\Dispatcher;
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\ServiceProvider;
 use WayOfDev\Auth\ChainProvider;
+use WayOfDev\Auth\Contracts\Authenticatable;
 use WayOfDev\Auth\Contracts\UserFactory as Factory;
 use WayOfDev\Auth\Guard;
 use WayOfDev\Auth\Providers\Bearer\UserFactory as BearerUserFactory;
@@ -37,6 +39,8 @@ final class AuthServiceProvider extends ServiceProvider
 
     public function register(): void
     {
+        $this->app->bind(Authenticatable::class, IlluminateAuthenticatable::class);
+
         $this->app->bind(BearerUserFactory::class, function () {
             return new BearerUserFactory();
         });
