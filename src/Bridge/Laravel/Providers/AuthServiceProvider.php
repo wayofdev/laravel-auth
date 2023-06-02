@@ -30,8 +30,9 @@ final class AuthServiceProvider extends ServiceProvider
             ], 'config');
 
             $this->registerConsoleCommands();
-            $this->configureGuard();
         }
+
+        $this->configureGuard();
     }
 
     public function register(): void
