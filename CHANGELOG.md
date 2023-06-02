@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/wayofdev/laravel-auth/compare/v1.0.3...v1.0.4) (2023-06-02)
+
+
+### Bug Fixes
+
+* guard is not being registered ([ed174eb](https://github.com/wayofdev/laravel-auth/commit/ed174eb7af512a1e7587ecf082b04cce87256534))
+
 ## [1.0.3](https://github.com/wayofdev/laravel-auth/compare/v1.0.2...v1.0.3) (2023-06-02)
 
 
