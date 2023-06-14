@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.20](https://github.com/wayofdev/laravel-auth/compare/v1.0.19...v1.0.20) (2023-06-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency nunomaduro/larastan to v2.6.3 ([dc255e7](https://github.com/wayofdev/laravel-auth/commit/dc255e72646cbba620a2f1032c10c981e44367ff))
+
 ## [1.0.19](https://github.com/wayofdev/laravel-auth/compare/v1.0.18...v1.0.19) (2023-06-14)
 
 
