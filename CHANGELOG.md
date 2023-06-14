@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.19](https://github.com/wayofdev/laravel-auth/compare/v1.0.18...v1.0.19) (2023-06-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency orchestra/testbench to v8.5.8 ([1752fd1](https://github.com/wayofdev/laravel-auth/commit/1752fd14df43e1dac040f6e00fc3a7ca709753d4))
+
 ## [1.0.18](https://github.com/wayofdev/laravel-auth/compare/v1.0.17...v1.0.18) (2023-06-13)
 
 
