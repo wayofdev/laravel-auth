@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.48](https://github.com/wayofdev/laravel-auth/compare/v1.0.47...v1.0.48) (2023-07-06)
+
+
+### Miscellaneous
+
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.27 ([b6e173b](https://github.com/wayofdev/laravel-auth/commit/b6e173b2c72529fc7fafc428e8304fea50a9ca7e))
+
 ## [1.0.47](https://github.com/wayofdev/laravel-auth/compare/v1.0.46...v1.0.47) (2023-07-06)
 
 
