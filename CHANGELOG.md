@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.68](https://github.com/wayofdev/laravel-auth/compare/v1.0.67...v1.0.68) (2023-07-31)
+
+
+### Miscellaneous
+
+* **deps:** update dependency pestphp/pest to v2.10.0 ([eef5aba](https://github.com/wayofdev/laravel-auth/commit/eef5aba95ee469fef385a8cf1e427bf968cccb6b))
+
 ## [1.0.67](https://github.com/wayofdev/laravel-auth/compare/v1.0.66...v1.0.67) (2023-07-29)
 
 
