@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.77](https://github.com/wayofdev/laravel-auth/compare/v1.0.76...v1.0.77) (2023-08-05)
+
+
+### Miscellaneous
+
+* **deps:** update phpstan packages ([dc326eb](https://github.com/wayofdev/laravel-auth/commit/dc326eb40ccedc93aab8810a29ea6e41e9372b30))
+
 ## [1.0.76](https://github.com/wayofdev/laravel-auth/compare/v1.0.75...v1.0.76) (2023-08-05)
 
 
