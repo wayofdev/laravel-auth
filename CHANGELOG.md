@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.83](https://github.com/wayofdev/laravel-auth/compare/v1.0.82...v1.0.83) (2023-08-11)
+
+
+### Miscellaneous
+
+* **deps:** update dependency ergebnis/composer-normalize to v2.35.0 ([301cacd](https://github.com/wayofdev/laravel-auth/commit/301cacdd75b4677d6744dd2a91af617469b635fd))
+
 ## [1.0.82](https://github.com/wayofdev/laravel-auth/compare/v1.0.81...v1.0.82) (2023-08-09)
 
 
