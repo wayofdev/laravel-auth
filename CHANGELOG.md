@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.86](https://github.com/wayofdev/laravel-auth/compare/v1.0.85...v1.0.86) (2023-08-13)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpunit/phpunit to v10.3.1 ([6da30fa](https://github.com/wayofdev/laravel-auth/commit/6da30faf1ee6fd746f2d27ad4fb8c824488aa580))
+
 ## [1.0.85](https://github.com/wayofdev/laravel-auth/compare/v1.0.84...v1.0.85) (2023-08-12)
 
 
