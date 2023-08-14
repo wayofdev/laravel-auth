@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.88](https://github.com/wayofdev/laravel-auth/compare/v1.0.87...v1.0.88) (2023-08-14)
+
+
+### Miscellaneous
+
+* **deps:** update dependency phpstan/phpstan to v1.10.29 ([467ad49](https://github.com/wayofdev/laravel-auth/commit/467ad49e48cf7edbfb4d5d000ce262ec65310484))
+
 ## [1.0.87](https://github.com/wayofdev/laravel-auth/compare/v1.0.86...v1.0.87) (2023-08-14)
 
 
