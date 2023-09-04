@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.103](https://github.com/wayofdev/laravel-auth/compare/v1.0.102...v1.0.103) (2023-09-04)
+
+
+### Miscellaneous
+
+* **deps:** update actions/checkout action to v4 ([8d21045](https://github.com/wayofdev/laravel-auth/commit/8d2104574e73b07f0a5f369e8309ff84f094b214))
+
 ## [1.0.102](https://github.com/wayofdev/laravel-auth/compare/v1.0.101...v1.0.102) (2023-09-04)
 
 
