@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.108](https://github.com/wayofdev/laravel-auth/compare/v1.0.107...v1.0.108) (2023-09-14)
+
+
+### Miscellaneous
+
+* **deps:** update codecov/codecov-action action to v4 ([8306529](https://github.com/wayofdev/laravel-auth/commit/8306529d64f75bf386aad23324d72d22502a7d72))
+* **deps:** update dependency wayofdev/cs-fixer-config to v1.2.60 ([291dec3](https://github.com/wayofdev/laravel-auth/commit/291dec36c554b20cac2d6f37883755dd5ce5595d))
+
 ## [1.0.107](https://github.com/wayofdev/laravel-auth/compare/v1.0.106...v1.0.107) (2023-09-13)
 
 
