@@ -17,7 +17,7 @@
     "require": {
         "php": "^8.1",
         "ext-json": "*",
-        "illuminate/contracts": "^v10.12"
+        "illuminate/contracts": "^v11.0.0"
     },
     "require-dev": {
         "ergebnis/composer-normalize": "^2.31",
